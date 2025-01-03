@@ -63,57 +63,6 @@ const story_detail:Detail[] = [
     ];
 
 const Blog = () => {
-  // const posts = [
-  //   {
-  //     id: "the_lottery",
-  //     author: "Shirley Jackson",
-  //     name: "The Lottery",
-  //     image: "/blogImg/peacevillage.jpg",
-  //     heading: "A small town holds an annual lottery with a shocking and sinister conclusion.",
-  //     contenttext: "Renowned landmarks include the Eiffel Tower, Notre-Dame Cathedral, and the Louvre Museum. Its exquisite cuisine, from croissants to fine wines, is unmatched, and the Seine River adds to the city's picturesque allure."
-  //   },
-  //   {
-  //     id: "tell_tale_heart",
-  //     author: "Edgar Allan Poe",
-  //     name: "The Tell-Tale Heart",
-  //     image: "/blogImg/tellheart.jpg",
-  //     heading: " A chilling tale of guilt and madness, told from the perspective of an unreliable narrator.",
-  //     contenttext: "Turkey spans two continents: the majority lies in Asia (Anatolia or Asia Minor), while a smaller portion is in Europe (Thrace). Bordered by eight countries, including Greece, Bulgaria, and Syria, and surrounded by seas: the Aegean Sea to the west, the Mediterranean Sea to the south, and the Black Sea to the north."
-  //   },
-  //   {
-  //     id: "good_man",
-  //     author: "Flannery O'Connor",
-  //     name: "A Good Man is Hard to Find",
-  //     image: "/blogImg/freeroad.jpg",
-  //     heading: " A family road trip turns dark as they encounter a mysterious and dangerous criminal.",
-  //     contenttext: "Covers most of the Arabian Peninsula, bordered by countries like Jordan, Iraq, Kuwait, Qatar, the UAE, Oman, and Yemen. Surrounded by the Red Sea to the west and the Arabian Gulf to the east. Its landscape is dominated by vast deserts, such as the Rub' al Khali (Empty Quarter), mountains, and oases."
-  //   },
-     
-  //   {
-  //     id: "harrison_bergeron",
-  //     author: "Kurt Vonnegut",
-  //     name: "Harrison Bergeron",
-  //     image: "/blogImg/disable.jpg",
-  //     heading: "A dystopian future where equality is enforced at the expense of individuality",
-  //     contenttext: "Renowned landmarks include the Eiffel Tower, Notre-Dame Cathedral, and the Louvre Museum. Its exquisite cuisine, from croissants to fine wines, is unmatched, and the Seine River adds to the city's picturesque allure."
-  //   },
-  //   {
-  //     id: "yelloewallpaper",
-  //     author: "Charlotte Perkins Gilman",
-  //     name: "The Yellow Wallpaper",
-  //     image: "/blogImg/wallpaper.jpg",
-  //     heading: "A womans descent into madness as she fixates on the patterns in her bedroom wallpaper.",
-  //     contenttext: "Turkey spans two continents: the majority lies in Asia (Anatolia or Asia Minor), while a smaller portion is in Europe (Thrace). Bordered by eight countries, including Greece, Bulgaria, and Syria, and surrounded by seas: the Aegean Sea to the west, the Mediterranean Sea to the south, and the Black Sea to the north."
-  //   },
-  //   {
-  //     id: "giftmagi",
-  //     author: "O. Henry",
-  //     name: "The Gift of the Magi",
-  //     image: "/blogImg/giftmagi.jpeg",
-  //     heading: "A heartwarming story of love and sacrifice as a couple exchange Christmas gifts.",
-  //     contenttext: "Covers most of the Arabian Peninsula, bordered by countries like Jordan, Iraq, Kuwait, Qatar, the UAE, Oman, and Yemen. Surrounded by the Red Sea to the west and the Arabian Gulf to the east. Its landscape is dominated by vast deserts, such as the Rub' al Khali (Empty Quarter), mountains, and oases."
-  //   }
-  //     ];
   return (
    <>
    <div className="mt-8 w-[95%]">
