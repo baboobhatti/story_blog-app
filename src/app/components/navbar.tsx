@@ -17,7 +17,7 @@ const Navbar = () => {
               } z-10 bg-[#005073] py-2 sm:py-0 border-t-2 border-white sm:border-none absolute top-16 left-0 w-full sm:static sm:w-auto sm:flex sm:items-center md:mr-2 lg:mr-24`}>
    <ul className='text-white text-lg md:text-xl lg:text-2xl text-center flex gap-2 justify-center flex-col sm:flex-row sm:gap-6'>
         <li><Link href='/'>Home</Link></li>
-        <li><Link href='/'>Stories</Link></li>
+        <li><Link href='../blog'>Stories</Link></li>
         <li><Link href='/'>Join Us</Link></li>
         <li><Link href='/'>About us</Link></li>
 
